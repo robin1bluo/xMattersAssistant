@@ -10,19 +10,19 @@ A handy tools to handle xMatters SMS with below features:
 ## Simple Guide
 0. This is a beta version, bugs are expected.
 
-1. Interface:
+1. Interface:<br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b>Rule1</b>: RegExp matching pattern. <a href="http://regular-expressions.mobi/refquick.html">Reference</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Rule1</b>: RegExp matching pattern. <a href="http://regular-expressions.mobi/refquick.html">Reference</a><br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b>Rule2</b>: Keyword matching pattern
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Rule2</b>: Keyword matching pattern<br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b>Router</b>: Specify phone number that SMS should be routed to
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Router</b>: Specify phone number that SMS should be routed to<br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;<u>Above three only works when check box ticked</u>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Above three only works when check box ticked</b><br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b>Enable / Disable</b>: Master switch
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Enable / Disable</b>: Master switch<br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b>Kill Me!</b>: Disable and quit
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Kill Me!</b>: Disable and quit<br />
 
 2. For keyword match, can use "/" as a splitter. e.g. PBS001/SAS001 in keyword rule can match SMS with either keyword PBS001 or SAS001.
 
