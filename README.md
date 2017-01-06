@@ -18,7 +18,7 @@ A handy tools to handle xMatters SMS with below features:
 &nbsp;&nbsp;&nbsp;&nbsp;<b>Enable / Disable</b>: Master switch<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b>Kill Me!</b>: Disable and quit<br /><br />
 
-3. For keyword match, can use "/" as a splitter. e.g. PBS001/SAS001 in keyword rule can match SMS with either keyword PBS001 or SAS001.
+3. For keyword match, it's case sensitive. You can use "/" as a splitter. e.g. PBS001/SAS001 in keyword rule can match SMS with either keyword PBS001 or SAS001.Special char * and + are not supported.
 
 * You are welcome to raise issue in <a href="https://github.com/robin1bluo/xMattersAssistant">the project github</a>. For any urgent query, please contact Robin1 B Luo.
 
