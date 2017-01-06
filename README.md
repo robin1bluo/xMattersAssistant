@@ -11,6 +11,7 @@ A handy tools to handle xMatters SMS with below features:
 0. This is a beta version, bugs are expected.
 
 1. Interface:
+
 &nbsp;&nbsp;&nbsp;&nbsp;<b>Rule1</b>: RegExp matching pattern. <a href="http://regular-expressions.mobi/refquick.html">Reference</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<b>Rule2</b>: Keyword matching pattern
